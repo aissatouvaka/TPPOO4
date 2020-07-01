@@ -1,3 +1,3 @@
 accessing
-tauxInteret: anObject
-	tauxInteret := anObject
+tauxInteret: unInteret
+	tauxInteret := unInteret 

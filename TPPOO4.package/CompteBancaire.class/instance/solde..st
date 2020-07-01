@@ -1,3 +1,3 @@
 accessing
-solde: unMontant
-	solde := unMontant 
+solde: unSolde
+	solde := unSolde 
