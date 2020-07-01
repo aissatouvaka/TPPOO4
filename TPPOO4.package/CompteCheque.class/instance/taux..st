@@ -1,3 +1,3 @@
 accessing
-taux: anObject
-	taux := anObject
+taux: unTaux
+	taux := unTaux 

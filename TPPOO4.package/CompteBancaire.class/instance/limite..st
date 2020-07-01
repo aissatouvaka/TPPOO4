@@ -1,3 +1,3 @@
 accessing
-limite: anObject
-	limite := anObject
+limite: uneSum
+	limite := uneSum 

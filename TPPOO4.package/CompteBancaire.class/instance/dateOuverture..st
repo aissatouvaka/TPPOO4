@@ -1,3 +1,3 @@
 accessing
-dateOuverture: anObject
-	dateOuverture := anObject
+dateOuverture: uneDateOuverture
+	dateOuverture := uneDateOuverture 

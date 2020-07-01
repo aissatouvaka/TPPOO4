@@ -1,3 +1,3 @@
 accessing
-listeOperations: anObject
-	listeOperations := anObject
+listeOperations: uneListe
+	listeOperations := uneListe 

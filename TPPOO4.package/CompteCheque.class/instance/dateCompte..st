@@ -1,3 +1,3 @@
 accessing
-dateCompte: anObject
-	dateCompte := anObject
+dateCompte: unedateCompte
+	dateCompte := unedateCompte 

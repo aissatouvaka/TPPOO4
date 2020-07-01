@@ -1,3 +1,3 @@
 accessing
-telephone: anObject
-	telephone := anObject
+telephone: unTel
+	telephone := unTel 

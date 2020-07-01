@@ -1,3 +1,3 @@
 accessing
-dateOperation: anObject
-	dateOperation := anObject
+dateOperation: uneDateOperation
+	dateOperation := uneDateOperation 

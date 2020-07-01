@@ -1,3 +1,3 @@
 accessing
-ville: anObject
-	ville := anObject
+ville: uneVille
+	ville := uneVille 

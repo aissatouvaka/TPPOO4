@@ -1,3 +1,3 @@
 accessing
-typeOperation: anObject
-	typeOperation := anObject
+typeOperation: unType
+	typeOperation := unType 

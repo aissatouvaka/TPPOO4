@@ -1,3 +1,3 @@
 accessing
-montant: anObject
-	montant := anObject
+montant: unMontant
+	montant := unMontant 

@@ -1,3 +1,3 @@
 accessing
-quartier: anObject
-	quartier := anObject
+quartier: unQuartier
+	quartier := unQuartier 

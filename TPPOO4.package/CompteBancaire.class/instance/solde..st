@@ -1,3 +1,3 @@
 accessing
-solde: anObject
-	solde := anObject
+solde: unMontant
+	solde := unMontant 
