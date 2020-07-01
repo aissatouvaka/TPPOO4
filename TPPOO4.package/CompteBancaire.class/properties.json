@@ -6,7 +6,6 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"code",
 		"numeroCompte",
 		"dateOuverture",
 		"solde",
