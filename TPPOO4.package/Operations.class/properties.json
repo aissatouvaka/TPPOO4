@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "TPPOO4",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"dateOperation",
+		"montant",
+		"typeOperation"
+	],
+	"name" : "Operations",
+	"type" : "normal"
+}

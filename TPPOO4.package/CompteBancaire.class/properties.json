@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "TPPOO4",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"code",
+		"numeroCompte",
+		"dateOuverture",
+		"solde",
+		"limite",
+		"listeOperations"
+	],
+	"name" : "CompteBancaire",
+	"type" : "normal"
+}

@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "CompteBancaire",
+	"category" : "TPPOO4",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"dateCompte",
+		"decouvertAutorise",
+		"taux"
+	],
+	"name" : "CompteCheque",
+	"type" : "normal"
+}

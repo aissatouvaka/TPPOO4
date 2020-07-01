@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "CompteBancaire",
+	"category" : "TPPOO4",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"tauxInteret"
+	],
+	"name" : "CompteEpargne",
+	"type" : "normal"
+}

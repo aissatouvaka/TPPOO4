@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "TPPOO4",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"ville",
+		"quartier",
+		"telephone",
+		"email"
+	],
+	"name" : "Adresse",
+	"type" : "normal"
+}

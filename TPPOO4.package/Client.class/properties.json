@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "TPPOO4",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"nom",
+		"prenom",
+		"dateNaissance",
+		"matricule",
+		"statut"
+	],
+	"name" : "Client",
+	"type" : "normal"
+}
