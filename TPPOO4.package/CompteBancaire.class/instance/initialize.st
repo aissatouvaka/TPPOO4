@@ -1,6 +1,7 @@
 initialization
 initialize 
-super initialize
-numeroCompte: 0.
-self solde: 100.
-self limite: 0.
+	super initialize.
+	numeroCompte:= 0.
+	solde:= 100.
+	limite:= 10000000.
+	etatCompte := true

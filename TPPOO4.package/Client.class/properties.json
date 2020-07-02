@@ -8,10 +8,9 @@
 	"instvars" : [
 		"nom",
 		"prenom",
-		"dateNaissance",
 		"matricule",
-		"statut",
-		"adresse"
+		"adresse",
+		"compteBancaire"
 	],
 	"name" : "Client",
 	"type" : "normal"

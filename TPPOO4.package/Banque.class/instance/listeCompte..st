@@ -1,3 +1,3 @@
 accessing
 listeCompte: unelisteCompte
-listeCompte := unelisteCompte 
+listeCompte addFirst: unelisteCompte 

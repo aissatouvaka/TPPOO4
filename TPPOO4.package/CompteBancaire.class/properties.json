@@ -6,12 +6,11 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"code",
 		"numeroCompte",
 		"dateOuverture",
 		"solde",
 		"limite",
-		"listeOperations"
+		"etatCompte"
 	],
 	"name" : "CompteBancaire",
 	"type" : "normal"

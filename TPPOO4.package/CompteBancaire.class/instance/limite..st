@@ -1,3 +1,3 @@
 accessing
 limite: uneSum
-	limite := uneSum 
+	limite := uneSum

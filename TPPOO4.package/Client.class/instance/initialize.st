@@ -1,3 +1,7 @@
 initialization
 initialize 
-	adresse := OrderedCollection new.
+	compteBancaire  := OrderedCollection new.
+	adresse := Adresse new.
+	matricule := 0.
+	nom := 'Vaka'.
+	prenom := 'Saidou'
