@@ -1,4 +1,5 @@
-as yet unclassified
+operations
 creerCompte: unCompteBancaire client: unClient
 unClient compteBancaire: unCompteBancaire.
-self listeClient: unCompteBancaire 
+self listeClient: unClient.
+self listeCompte: unCompteBancaire 

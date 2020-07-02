@@ -1,3 +1,3 @@
-as yet unclassified
+operations
 consulterCompte
 self compteBancaire solde
