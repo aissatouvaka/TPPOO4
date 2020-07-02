@@ -10,7 +10,8 @@
 		"prenom",
 		"dateNaissance",
 		"matricule",
-		"statut"
+		"statut",
+		"adresse"
 	],
 	"name" : "Client",
 	"type" : "normal"
