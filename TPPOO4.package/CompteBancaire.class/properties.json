@@ -11,7 +11,8 @@
 		"dateOuverture",
 		"solde",
 		"limite",
-		"listeOperations"
+		"listeOperations",
+		"adresse"
 	],
 	"name" : "CompteBancaire",
 	"type" : "normal"
