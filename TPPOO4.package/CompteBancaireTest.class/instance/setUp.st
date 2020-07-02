@@ -1,4 +1,3 @@
 running
 setUp 
-	compte:= CompteBancaire  new.
-	compte montant: 5000
+	compte:= CompteBancaire new.

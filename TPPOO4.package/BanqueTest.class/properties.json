@@ -6,7 +6,8 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"Banque"
+		"Banque",
+		"banqueCompte"
 	],
 	"name" : "BanqueTest",
 	"type" : "normal"

@@ -6,7 +6,8 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"Client"
+		"Client",
+		"clientCompte"
 	],
 	"name" : "ClientTest",
 	"type" : "normal"
