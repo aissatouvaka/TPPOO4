@@ -1,5 +1,5 @@
 operations
-transfert: montant a: unClient
+transfertCompte: montant de: unCompte at: unClient
 
 (self compteBancaire etatCompte) ifFalse: [ Transcript show: 'Compte bancaire 
 	bloqué';cr.
@@ -7,10 +7,5 @@ transfert: montant a: unClient
 (montant < 500)
  ifTrue: [ ^false ]
 	ifFalse: [ 
-		(self retrait: montant )
-		ifTrue: [ 
-			(unClient depot: montant)
-			ifTrue: [ ^true ]
-			ifFalse: [ ^false ]
-			 ]
-		 ]
+		(self compteBancaire transfert: montant a: unCompte)
+		]

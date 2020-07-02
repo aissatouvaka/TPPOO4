@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "TPPOO4",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"CompteBancaire"
+	],
+	"name" : "CompteBancaireTest",
+	"type" : "normal"
+}
