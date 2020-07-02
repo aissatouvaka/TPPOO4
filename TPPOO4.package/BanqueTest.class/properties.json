@@ -6,10 +6,8 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"CompteBancaire",
-		"compte",
-		"compteBancaire"
+		"Banque"
 	],
-	"name" : "CompteBancaireTest",
+	"name" : "BanqueTest",
 	"type" : "normal"
 }

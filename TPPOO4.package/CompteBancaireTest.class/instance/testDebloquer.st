@@ -1,3 +1,3 @@
 tests
 testDebloquer
-	self assert: (CompteBancaire new debloquer etatCompte) equals: true.
+	self assert: (CompteBancaire debloquer) etatCompte equals: true.
