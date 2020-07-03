@@ -1,3 +1,3 @@
 tests
 testBloquer
-	self assert: (CompteBancaire debloquer etatCompte ) equals: false.
+	self assert: (compte bloquer) equals: false.

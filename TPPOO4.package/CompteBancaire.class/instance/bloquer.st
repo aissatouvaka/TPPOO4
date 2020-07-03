@@ -1,3 +1,4 @@
 operations
 bloquer
-	self etatCompte: false
+	self etatCompte: false.
+	^false

@@ -1,3 +1,4 @@
 operations
 debloquer
-	self etatCompte: true
+	self etatCompte: true.
+	^true

@@ -6,10 +6,9 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"Banque",
-		"banqueCompte",
-		"unCompteBancaire",
-		"unClient"
+		"banque",
+		"compte",
+		"client"
 	],
 	"name" : "BanqueTest",
 	"type" : "normal"

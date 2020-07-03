@@ -1,5 +1,6 @@
 running
 setUp 
-	banqueCompte := banqueCompte new.
-	banqueCompte nom: 'Vaka Saidou'.
+	banque := Banque new.
+	compte := CompteBancaire new.
+	client := Client new.
 	

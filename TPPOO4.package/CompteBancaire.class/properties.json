@@ -2,7 +2,9 @@
 	"commentStamp" : "",
 	"super" : "Object",
 	"category" : "TPPOO4",
-	"classinstvars" : [ ],
+	"classinstvars" : [
+		"monCompte"
+	],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [

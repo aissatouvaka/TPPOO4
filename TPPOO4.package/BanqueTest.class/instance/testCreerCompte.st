@@ -1,4 +1,4 @@
 tests
 testCreerCompte
-	banqueCompte 
-	creerCompte:  unCompteBancaire client: unClient 
+	banque
+	creerCompte: compte client: client

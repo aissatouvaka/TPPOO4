@@ -1,3 +1,3 @@
 tests
 testTransfert
-	 compte transfert: 20000 a:(compte new montant: 9000)
+	 compte transfert: 20000 a:(CompteBancaire new solde:  9000)

@@ -1,4 +1,4 @@
 running
 setUp 
 	compte:= CompteBancaire new.
-	compte montant: 5000000
+	compte solde:  5000000
