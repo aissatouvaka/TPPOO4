@@ -1,3 +1,4 @@
 tests
 testCreerCompte
-	self assert: Banque new creerCompte client equals:5. 
+	banqueCompte 
+	creerCompte:  unCompteBancaire client: unClient 

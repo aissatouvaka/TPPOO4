@@ -7,7 +7,9 @@
 	"classvars" : [ ],
 	"instvars" : [
 		"Banque",
-		"banqueCompte"
+		"banqueCompte",
+		"unCompteBancaire",
+		"unClient"
 	],
 	"name" : "BanqueTest",
 	"type" : "normal"
